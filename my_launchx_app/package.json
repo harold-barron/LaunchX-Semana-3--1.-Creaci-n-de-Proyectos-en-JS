@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "node ./node_modules/.bin/jest"
+    "test": "node ./node_modules/jest/bin/jest",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
